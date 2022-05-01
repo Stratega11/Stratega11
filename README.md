@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Stratega11
+- 👀 I’m interested in informatics problems as project euler
+- 🌱 I’m currently learning engineering and I'm coding for fun and intelectual challenges
+- 📫 How to reach me ...
+- I mostly code using python 
+- I need to learn about AI 
